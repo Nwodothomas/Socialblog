@@ -2,7 +2,7 @@
   "name": "peagent",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Nwodothomas.github.io/socialblog",
+  "homepage": "https://Nwodothomas.github.io/Socialblog/peagent",
   "dependencies": {
     "@tailwindcss/forms": "^0.5.7",
     "@tailwindcss/typography": "^0.5.10",
@@ -20,7 +20,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build", 
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
