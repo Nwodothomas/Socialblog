@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/socialblog/static/css/main.e3206ab9.css",
+    "main.js": "/socialblog/static/js/main.3b82869e.js",
+    "static/js/453.6ec42615.chunk.js": "/socialblog/static/js/453.6ec42615.chunk.js",
+    "static/media/workshop-image2.jpg": "/socialblog/static/media/workshop-image2.91a2dc604ca8c15f467f.jpg",
+    "static/media/workshop-image1.jpg": "/socialblog/static/media/workshop-image1.949c711417007a938425.jpg",
+    "static/media/hero-image3": "/socialblog/static/media/hero-image3.367b48a63bd9d6211727",
+    "static/media/hero-image1": "/socialblog/static/media/hero-image1.263dc8b61aa0fa19c385",
+    "static/media/story-image.jpg": "/socialblog/static/media/story-image.d8544e19fcb157bf9a35.jpg",
+    "static/media/hero-image4": "/socialblog/static/media/hero-image4.5c828a6204ea7662385b",
+    "static/media/workshop-image3.jpg": "/socialblog/static/media/workshop-image3.aa6f0ab84a245d01d778.jpg",
+    "index.html": "/socialblog/index.html",
+    "static/media/hero-image2": "/socialblog/static/media/hero-image2.31d6cfe0d16ae931b73c",
+    "static/media/hero-image5": "/socialblog/static/media/hero-image5.31d6cfe0d16ae931b73c",
+    "main.e3206ab9.css.map": "/socialblog/static/css/main.e3206ab9.css.map",
+    "main.3b82869e.js.map": "/socialblog/static/js/main.3b82869e.js.map",
+    "453.6ec42615.chunk.js.map": "/socialblog/static/js/453.6ec42615.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3206ab9.css",
+    "static/js/main.3b82869e.js"
+  ]
+}
